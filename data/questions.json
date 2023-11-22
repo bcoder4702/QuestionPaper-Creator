@@ -1,0 +1,9 @@
+[
+    {"question": "What is the speed of light", "subject": "Physics", "topic": "Waves", "difficulty": "Easy", "marks": 5},
+    {"question": "Who is Our PM", "subject": "Physics", "topic": "Waves", "difficulty": "Medium", "marks": 20},
+    {"question": "What is blackHole", "subject": "Physics", "topic": "Waves", "difficulty": "Medium", "marks": 25},
+    {"question": "What is Spaceship", "subject": "Physics", "topic": "Waves", "difficulty": "Hard", "marks": 30},
+    {"question": "Who won world cup 2023", "subject": "Physics", "topic": "Waves", "difficulty": "Hard", "marks": 40},
+    {"question": "What is Virat Kholi", "subject": "Physics", "topic": "Waves", "difficulty": "Hard", "marks": 50}
+]
+  
